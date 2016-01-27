@@ -132,3 +132,9 @@ tweet = tweet +". this is another sentence.";
 
 console.log("The value of count is "+count); // 10000;
 console.log("The value of tweet is "+tweet); // 100Hello World!10 . this is another sentence.
+
+
+
+const constantValue = 90;
+constantValue = 70;
+console.log(constantValue);
